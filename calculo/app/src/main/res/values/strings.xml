@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculo</string>
+    <string name="numberInput"></string>
+    <string name="bir"></string>
+    <string name="iki"></string>
+    <string name="üç"></string>
+    <string name="dört"></string>
+    <string name="bes"></string>
+    <string name="alti"></string>
+    <string name="yedi"></string>
+    <string name="sekiz"></string>
+    <string name="dokuz"></string>
+    <string name="sifir"></string>
+    <string name="cikis"></string>
+    <string name="toplama"></string>
+    <string name="cikarma"></string>
+    <string name="carpma"></string>
+    <string name="bolme"></string>
+    <string name="clear"></string>
+    <string name="sonuc"></string>
+    <string name="giris"></string>
+</resources>
